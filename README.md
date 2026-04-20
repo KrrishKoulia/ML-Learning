@@ -8,6 +8,14 @@ just some ml stuff i'm learning. don't expect much.
 - practice exercises
 - small projects (maybe)
 
+## Prerequisites (stats)
+
+- mean, median, mode
+- standard deviation, variance
+- probability basics
+- normal distribution
+- p-values (kinda)
+
 ## Topics (if i get to them)
 
 - data preprocessing
