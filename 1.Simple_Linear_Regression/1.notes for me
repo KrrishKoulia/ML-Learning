@@ -1,0 +1,17 @@
+    --------------------------------
+--------------------------------
+1. AI - ML-DL- Difference
+2.3 types of ML - Supervised ML , Unsupervised ML , Reinforcement Learning
+3. Equation of line , 3D and Hyperplane
+4.Distance of a point from a plane.
+5. Instance based and Model Learning based
+
+
+
+1. from sklearn.model_selection import train_test_split
+2. sklearn.preprocessing import standardscaler
+3. sklearn.linear_model import linearRegression
+
+model_selection train_test_split
+preprocessing standardscaler
+linear_model -- linearRegression
