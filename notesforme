@@ -1,0 +1,7 @@
+sklearn                          # Main package
+    └── preprocessing            # Submodule (contains preprocessing tools)
+            └── StandardScaler   # Class (for standardization)
+
+
+fit : calculates the mean and std of the data
+transform : try to change the data by applying the Z score
